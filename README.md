@@ -1,3 +1,3 @@
 # deb-pre-class-workshop
 
-DEB Pre Class Workshop: Phisitphon
+DEB Pre Class Workshop: Phisitphon Jantharakittikun
